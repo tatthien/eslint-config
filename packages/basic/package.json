@@ -5,13 +5,17 @@
   "keywords": [],
   "license": "MIT",
   "author": "Thien Nguyen",
-  "scripts": {
-    "lint": "eslint . --config=index.js"
-  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
   }
 }

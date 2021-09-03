@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "lint": "lerna run lint",
     "new-version": "lerna version --conventional-commits --yes",
     "release": "lerna publish --conventional-commits"
   },
