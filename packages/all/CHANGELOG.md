@@ -9,14 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * add more packages ([3f80c17](https://github.com/tatthien/eslint-config/commit/3f80c175d6f9491fa067729f23a8cdc27d24f238))
-
-
-
-
-
-# 0.2.0 (2021-09-03)
-
-
-### Features
-
-* first try ([76aad38](https://github.com/tatthien/eslint-config/commit/76aad38f66b95744cf04998628f0df8879bb4d71))
