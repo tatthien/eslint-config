@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "new-version": "lerna version --conventional-commits --yes",
+    "new-version": "lerna version --conventional-commits",
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
