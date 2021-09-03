@@ -1,0 +1,16 @@
+{
+  "name": "@tatthien/eslint-config-basic",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Thien Nguyen",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@tatthien/eslint-config-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "lerna run lint",
+    "new-version": "lerna version --conventional-commits --yes",
+    "release": "lerna publish --conventional-commits"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0",
+    "lerna": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

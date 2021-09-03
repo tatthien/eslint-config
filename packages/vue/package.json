@@ -1,0 +1,9 @@
+{
+  "name": "@tatthien/eslint-config-vue",
+  "scripts": {
+    "test": "echo vue-test"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
