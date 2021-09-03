@@ -1,6 +1,6 @@
 {
   "name": "@tatthien/eslint-config-ts",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -13,7 +13,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@tatthien/eslint-config-basic": "^0.3.0",
+    "@tatthien/eslint-config-basic": "^0.4.0",
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "@typescript-eslint/parser": "^4.30.0"
   },

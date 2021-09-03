@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/tatthien/eslint-config/compare/v0.3.0...v0.4.0) (2021-09-03)
+
+
+### Features
+
+* add override config for vue files ([6eede21](https://github.com/tatthien/eslint-config/commit/6eede21484f82c48c4291ffd0f77e9a88c0f743d))
+* change curly rule to 'all' ([b92f9ed](https://github.com/tatthien/eslint-config/commit/b92f9ed8c9b3423f56d02d4a2ebcfcfc2499452b))
+
+
+
+
+
 # [0.3.0](https://github.com/tatthien/eslint-config/compare/v0.2.0...v0.3.0) (2021-09-03)
 
 
