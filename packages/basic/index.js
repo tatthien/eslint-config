@@ -10,7 +10,7 @@ module.exports = {
   rules: {
     'semi': ['error', 'never'],
     'quotes': ['error', 'single'],
-    'curly': ['error', 'multi-or-nest', 'consistent'],
+    'curly': ['error', 'all'],
     'comma-dangle': ['error', 'always-multiline'],
     'comma-style': ['error', 'last'],
 
