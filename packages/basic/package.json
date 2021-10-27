@@ -17,5 +17,8 @@
   },
   "peerDependencies": {
     "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^2.25.2"
   }
 }
