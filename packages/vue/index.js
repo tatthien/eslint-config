@@ -13,6 +13,7 @@ module.exports = {
     '@tatthien/eslint-config-ts'
   ],
   rules: {
+    'vue/max-attributes-per-line': ['error', { singleline: 2 }],
     'vue/html-self-closing': 'off',
     'vue/no-v-html': 'off'
   }
